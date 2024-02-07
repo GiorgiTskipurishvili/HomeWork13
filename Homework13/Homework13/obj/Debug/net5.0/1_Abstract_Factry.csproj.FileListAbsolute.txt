@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\bin\Debug\net5.0\1_Abstract_Factry.exe
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\bin\Debug\net5.0\1_Abstract_Factry.deps.json
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\bin\Debug\net5.0\1_Abstract_Factry.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\bin\Debug\net5.0\1_Abstract_Factry.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\bin\Debug\net5.0\1_Abstract_Factry.dll
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\bin\Debug\net5.0\1_Abstract_Factry.pdb
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\1_Abstract_Factry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\1_Abstract_Factry.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\1_Abstract_Factry.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\1_Abstract_Factry.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\1_Abstract_Factry.dll
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\refint\1_Abstract_Factry.dll
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\1_Abstract_Factry.pdb
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\1_Abstract_Factry.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\ref\1_Abstract_Factry.dll

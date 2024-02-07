@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\3_Facade\bin\Debug\net5.0\3_Facade.exe
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\3_Facade\bin\Debug\net5.0\3_Facade.deps.json
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\3_Facade\bin\Debug\net5.0\3_Facade.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\3_Facade\bin\Debug\net5.0\3_Facade.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\3_Facade\bin\Debug\net5.0\3_Facade.dll
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\3_Facade\bin\Debug\net5.0\3_Facade.pdb
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\3_Facade\obj\Debug\net5.0\3_Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\3_Facade\obj\Debug\net5.0\3_Facade.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\3_Facade\obj\Debug\net5.0\3_Facade.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\3_Facade\obj\Debug\net5.0\3_Facade.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\3_Facade\obj\Debug\net5.0\3_Facade.dll
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\3_Facade\obj\Debug\net5.0\refint\3_Facade.dll
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\3_Facade\obj\Debug\net5.0\3_Facade.pdb
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\3_Facade\obj\Debug\net5.0\3_Facade.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\3_Facade\obj\Debug\net5.0\ref\3_Facade.dll

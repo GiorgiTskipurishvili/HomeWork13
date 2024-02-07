@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\2_Proxy_Pattern\bin\Debug\net5.0\2_Proxy_Pattern.exe
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\2_Proxy_Pattern\bin\Debug\net5.0\2_Proxy_Pattern.deps.json
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\2_Proxy_Pattern\bin\Debug\net5.0\2_Proxy_Pattern.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\2_Proxy_Pattern\bin\Debug\net5.0\2_Proxy_Pattern.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\2_Proxy_Pattern\bin\Debug\net5.0\2_Proxy_Pattern.dll
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\2_Proxy_Pattern\bin\Debug\net5.0\2_Proxy_Pattern.pdb
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\2_Proxy_Pattern\obj\Debug\net5.0\2_Proxy_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\2_Proxy_Pattern\obj\Debug\net5.0\2_Proxy_Pattern.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\2_Proxy_Pattern\obj\Debug\net5.0\2_Proxy_Pattern.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\2_Proxy_Pattern\obj\Debug\net5.0\2_Proxy_Pattern.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\2_Proxy_Pattern\obj\Debug\net5.0\2_Proxy_Pattern.dll
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\2_Proxy_Pattern\obj\Debug\net5.0\refint\2_Proxy_Pattern.dll
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\2_Proxy_Pattern\obj\Debug\net5.0\2_Proxy_Pattern.pdb
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\2_Proxy_Pattern\obj\Debug\net5.0\2_Proxy_Pattern.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\2_Proxy_Pattern\obj\Debug\net5.0\ref\2_Proxy_Pattern.dll

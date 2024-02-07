@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\bin\Debug\net5.0\Homework13.exe
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\bin\Debug\net5.0\Homework13.deps.json
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\bin\Debug\net5.0\Homework13.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\bin\Debug\net5.0\Homework13.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\bin\Debug\net5.0\Homework13.dll
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\bin\Debug\net5.0\Homework13.pdb
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\Homework13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\Homework13.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\Homework13.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\Homework13.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\Homework13.dll
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\refint\Homework13.dll
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\Homework13.pdb
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\Homework13.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\HomeWork13\Homework13\Homework13\obj\Debug\net5.0\ref\Homework13.dll
